@@ -1,0 +1,23 @@
+owner:
+  name: John Doe
+  organization: Acme Widgets Inc.
+database:
+# use IP address in case network name resolution is not working
+  server: "192.0.2.62"
+  port: 143
+  default: true
+  file: payroll.dat
+  json: "database": {"server": "192.0.2.62","port": 143,"default": true,"file": "payroll.dat"}
+
+
+
+# Pros
+# Very human readable
+# any json can be used in it
+# Quic to write
+# Has Comments! start a line with a hash symbol
+# Can tell the difference between numbers and text and booleans
+
+# Cons
+# Incorrect indentation can cause problens
+# Difficult for machines to interpret

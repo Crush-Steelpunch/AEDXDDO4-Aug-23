@@ -1,0 +1,31 @@
+{
+    "key": "Value",
+    "owner": {
+    "name": "John Doe",
+    "organization": "Acme Widgets Inc."
+    },
+    "database": {
+    "server": "192.0.2.62",
+    "port": 143,
+    "default": true,
+    "file": "payroll.dat"
+    },
+
+
+
+    "notes":{
+        "Pros":{
+            "1":"Very Machine readable",
+            "2":"Very Flexible"
+
+        },
+        "Cons":{
+            "1":"Not easy to read, especially if not formatted",
+            "2":"Can't do comments",
+            "3": "Doesn't really understand the difference between text and numbers"
+        }
+    }
+}
+
+
+[[[2102575750,"cool","movement","stand",-1556083342.8914998,1201005623],1199311165,false,"middle",-1877907292,-875963847.7249184],"yourself",true,"year",false,905964368]

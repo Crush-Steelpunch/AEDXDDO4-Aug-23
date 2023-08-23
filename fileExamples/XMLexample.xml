@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <settings>
+    <!-- last modified 1 April 2001 by John Doe -->
+    <owner>
+        <name>John Doe</name>
+        <organization>Acme Widgets Inc.</organization>
+    </owner>
+    <owner>
+        <name>Anne Dob</name>
+        <organization>AnneCo</organization>
+    </owner>
+    <!-- use IP address in case network name resolution is not working-->
+    <database server="192.0.2.62" port="143" file="payroll.dat"/>
+</settings>
+
+
+<!-- 
+Pros
+
+Easy for machines to understand
+Extremely Flexible
+Hierachical
+
+Cons
+
+Not easy for humans to read
+Complexity means it can confusing unless you know the schema
+
+-->
+
+
