@@ -1,2 +1,0 @@
-
-Why did the developer break up with Git? Because every time they tried to commit, Git kept saying, "It's not you, it's me(rge conflict)!"
