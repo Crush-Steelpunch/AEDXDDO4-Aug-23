@@ -12,6 +12,6 @@
       sudo apt install -y bsdmainutils
       cal
       ```
-- save the yaml file with any name (default was `blank`)
+- save the yaml file with any name (default was `blank.yml`)
 - see the action running
 - If it fails try to fix it (with help if needed)
