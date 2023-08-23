@@ -37,11 +37,11 @@ jobs:
         run: cat Jokes/*.txt
 
       # try using git
-      - name: git switch
-        run: git switch jokebranch
+      #- name: git switch
+      #  run: git switch jokebranch
 
       # try showing Matt B's Joke
-      - name: bjoke
-        run: cat Jokes/mattbradshawjoke.txt
+      #- name: bjoke
+      #  run: cat Jokes/mattbradshawjoke.txt
       
           
