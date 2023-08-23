@@ -8,8 +8,8 @@
     - `cat /etc/os-release`
     - |
       ```bash
-      apt update
-      apt install -y bsdmainutils
+      sudo apt update
+      sudo apt install -y bsdmainutils
       cal
       ```
 - save the yaml file with any name (default was `blank`)
